@@ -5,7 +5,7 @@
 ### Aspiring AI/ML Engineer
 **CS & AI · GL Bajaj Institute of Technology & Management · Class of 2028**
 
-[![Reliance Foundation Scholar](https://img.shields.io/badge/Reliance%20Foundation%20Scholar%202024--28-6366f1?style=for-the-badge&labelColor=6366f1)](https://www.reliancefoundation.org/)
+[![Reliance Foundation Scholar](https://img.shields.io/badge/Reliance%20Foundation%20Scholar%202024--28-6366f1?style=for-the-badge&labelColor=6366f1)](https://www.scholarships.reliancefoundation.org/UG_Scholarship.aspx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadhya-bansal1/)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/aadhyabansal/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aadhya_bansal/)
@@ -43,7 +43,7 @@ class Aadhya:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadhyabansal&layout=compact&hide_border=true&theme=tokyonight&langs_count=5" width="100%"/>
 </td>
 <td valign="top" width="50%">
-<img src="https://leetcard.jacoblin.cool/aadhya_bansal?theme=dark&font=Nunito&ext=heatmap&border=0&width=400" width="100%"/>
+<img src="https://leetcard.jacoblin.cool/aadhya_bansal?theme=dark&font=Nunito&ext=heatmap&border=0" width="100%"/>
 </td>
 </tr></table>
 
