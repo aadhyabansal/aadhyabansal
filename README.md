@@ -28,6 +28,7 @@ class Aadhya:
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
+| [**RAG Evaluation Harness**](https://github.com/aadhyabansal/rag-eval-harness) | Where and Why Does RAG Actually Fail? | sentence-transformers · chromaDB · rank_bm25 · groq( Llama 3.3 70B) 
 | [**Emotion Detection**](https://github.com/aadhyabansal/emotion-detection-cnn) | Multi-class facial emotion classifier deployed on HF Spaces | VGG16 · ResNet50 · Gradio |
 | [**Movie Sentiment Analyzer**](https://github.com/aadhyabansal/Movie-review-sentiment-analysis) | Binary sentiment classifier fine-tuned on 15k IMDB reviews · 85% test accuracy | DistilBERT · Hugging Face |
 
@@ -38,10 +39,6 @@ class Aadhya:
 <div align="center">
 
 <table><tr>
-<td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=aadhyabansal&show_icons=true&hide_border=true&theme=tokyonight&hide_title=true&rank_icon=github&include_all_commits=true" width="100%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadhyabansal&layout=compact&hide_border=true&theme=tokyonight&langs_count=5" width="100%"/>
-</td>
 <td valign="top" width="50%">
 <img src="https://leetcard.jacoblin.cool/aadhya_bansal?theme=dark&font=Nunito&ext=heatmap&border=0" width="100%"/>
 </td>
