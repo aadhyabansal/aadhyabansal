@@ -28,9 +28,9 @@ class Aadhya:
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
+| [**FairLens**](https://github.com/aadhyabansal/fairlens-ai-bias) | A full-stack platform to measure, flag, and fix hidden bias in datasets. | FastAPI · FairLearn · PostgreSQL · React · Gemini
 | [**RAG Evaluation Harness**](https://github.com/aadhyabansal/rag-eval-harness) | Where and Why Does RAG Actually Fail? | sentence-transformers · chromaDB · rank_bm25 · groq( Llama 3.3 70B) 
 | [**Emotion Detection**](https://github.com/aadhyabansal/emotion-detection-cnn) | Multi-class facial emotion classifier deployed on HF Spaces | VGG16 · ResNet50 · Gradio |
-| [**Movie Sentiment Analyzer**](https://github.com/aadhyabansal/Movie-review-sentiment-analysis) | Binary sentiment classifier fine-tuned on 15k IMDB reviews · 85% test accuracy | DistilBERT · Hugging Face |
 
 ---
 
